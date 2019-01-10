@@ -1,3 +1,0 @@
-hi this is my master docker file 
-hi this is my firstbranch docker file
-newline
