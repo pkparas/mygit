@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Hi this is my master docker file 
-=======
 Hi this is my firstbranch docker file
->>>>>>> firstbranch
+newline
