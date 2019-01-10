@@ -1,3 +1,3 @@
-Hi this is my master docker file 
-Hi this is my firstbranch docker file
+hi this is my master docker file 
+hi this is my firstbranch docker file
 newline
